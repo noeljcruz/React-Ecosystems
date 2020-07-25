@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/noeljcruz/React-Ecosystems/issues"
   },
-  "homepage": "https://github.com/noeljcruz/React-Ecosystems#readme"
+  "homepage": "https://github.com/noeljcruz/React-Ecosystems#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4"
+  }
 }
