@@ -12,7 +12,3 @@ export const loadTodos = () => async (dispatch, getState) => {
         dispatch(displayAlert(e));
     }
 }
-
-export const displayAlert = text => () => {
-    alert(text);
-}
